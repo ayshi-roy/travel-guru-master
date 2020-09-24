@@ -1,0 +1,15 @@
+.navbar img{
+    height: 48px;
+    filter: brightness(800%);
+}
+
+.navbar input{
+    background-color: rgba(255, 255, 255, 0.2);
+ 
+}
+.navbar-nav .nav-item {
+    margin-right: 35px;
+}
+.navbar-nav .nav-item .nav-link {
+    color: #fff !important;
+}
