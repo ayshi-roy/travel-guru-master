@@ -22,7 +22,8 @@ Website Link: [https://travel-guru-master-47ef6.firebaseapp.com/](https://travel
         * bootstrap
         * material ui etc.
 
-
+### My Resume Link
+https://drive.google.com/file/d/17d6upjlYwXghH4zArJx7tLrL9NZa-QQ7/view
 
 
 
