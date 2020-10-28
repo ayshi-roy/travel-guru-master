@@ -2,6 +2,23 @@
 
 Website Link: [https://travel-guru-master-47ef6.firebaseapp.com/](https://travel-guru-master-47ef6.firebaseapp.com/)
 
+### Project Summery
+
+• This is a full-stack responsive one page travel website 
+• Firstly client can choose a place for booking a hotel
+• For booking a hotel, client will fill the origin,destination & date. 
+• Filling the form client can booking a hotel room by signing Google, Facebook and log in system.
+• After sign in client can see the hotel and hotel description for the selected place.
+
+### Using Technology
+
+To build this site, I have used
+• JavaScript
+• React.js 
+• firebase
+• react-router
+• bootstrap
+• material ui etc.
 
 
 
@@ -16,6 +33,7 @@ Website Link: [https://travel-guru-master-47ef6.firebaseapp.com/](https://travel
 
 
 
+ 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
